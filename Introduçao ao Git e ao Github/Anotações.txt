@@ -1,0 +1,2 @@
+Link para download do https://git-scm.com/download/win
+O Git bach é um terminal extendido para otimizar o uso do Git.
