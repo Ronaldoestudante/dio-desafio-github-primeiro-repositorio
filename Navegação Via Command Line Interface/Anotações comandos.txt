@@ -1,0 +1,28 @@
+Navegação Via Command Line Interface.
+Comandos usados no Sistema Windows. 
+-cd
+-dir
+-mkdir
+-del/rmdir
+Comandos usados no sistema Unix.
+-cd
+-ls
+-mkdir
+-rm-rf
+
+COMANDOS NO WINDOWS.
+LISTAR : cd/
+RETORNAR PASTA: cd..
+CRIAR PASTA: mkdir workspace
+CRIAR ARQUIVO: workspace>echo > hello.txt
+APAGAR ARQUIVO: del workspace
+APAGAR PASTA: rmdir workspace /S/Q
+
+COMANDOS NO UNIX.
+LISTAR: ls
+RETORNAR PASTA: cd..
+CRIAR PASTA: mkdir workspace
+CRIAR ARQUIVO: workspace>echo > hello.txt
+APAGAR ARQUIVO E PASTA: rm -rf workspace/
+
+	
